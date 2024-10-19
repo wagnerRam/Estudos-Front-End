@@ -1,4 +1,3 @@
-const { error } = require("console");
 const fs = require("fs");
 
 //? 1 - Lendo um arquivo JSON com JS.
