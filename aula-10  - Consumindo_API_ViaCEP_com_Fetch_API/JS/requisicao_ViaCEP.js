@@ -1,6 +1,6 @@
 // Fetch API
 
-// then/catch
+// Requisição utilizando o metodo  ==  then/catch
 fetch("https://viacep.com.br/ws/04387140/json/")
   .then((response) => {
     response.json().then((dados) => console.log(dados));
@@ -9,7 +9,7 @@ fetch("https://viacep.com.br/ws/04387140/json/")
     console.log(erro);
   });
 
-// async / await
+//// Requisição utilizando o metodo  ==  async / await
 
 async function dadosDoCep() {
   try {
