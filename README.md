@@ -4,15 +4,11 @@ Bem-vindo ao meu repositório de estudos em **Desenvolvimento Front-end**! Aqui 
 
 ## 🛠️ Tecnologias Estudadas  
 - **JavaScript ES6+**  
-- **TypeScript** (em breve)  
-- **React** (em breve)  
-- **HTML5 e CSS3**  
+- **HTML5 e CSS3** (em breve)
 
 ## 📂 Estrutura do Repositório  
 - `01-javascript/`: Conceitos básicos e avançados de JavaScript.  
-- `02-typescript/`: Introdução ao TypeScript e tipagem estática.  
-- `03-react/`: Fundamentos do React e criação de componentes.  
-- `projects/`: Projetos práticos para consolidar o aprendizado.  
+- `projects/`: Projetos práticos para consolidar o aprendizado. (em breve)
 
 ## 🗓️ Cronograma de Estudo  
 - **Módulo 1**: JavaScript e manipulação de DOM.  
